@@ -5,4 +5,4 @@ description: This is the Entry Page.
 
 ## Welcome to Ahuru Foundation
 
-[Privacy Policy](./PRIVACYPOLICY.html).
+[Privacy Policy](./privacypolicy.html).
