@@ -1,12 +1,10 @@
 ---
-title: Another page
-description: This is just another page
+title: privacy policy page
+description: This is the Privacy Page.
 ---
 
-## Welcome to another page
+## Privacy Policy
 
 _yay_
 
 [back](./)
-
-## Policy
