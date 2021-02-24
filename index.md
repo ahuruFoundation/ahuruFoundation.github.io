@@ -1,7 +1,8 @@
 ---
-title: Ahuru Foundation1
---- 
+title: Ahuru Foundationn
+description: This is the main page
+---
 
 ## Hello World
 
-[Privacy Policy](./PRIVACYPOLICY.md).
+[Privacy Policy](./PRIVACYPOLICY.html).
