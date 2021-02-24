@@ -1,6 +1,6 @@
 ---
-title: privacy policy page
-description: This is the Privacy Page.
+title: Main page
+description: This is the Entry Page.
 ---
 
 ## Welcome to Ahuru Foundation
