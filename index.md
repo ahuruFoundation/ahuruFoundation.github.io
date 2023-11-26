@@ -13,3 +13,5 @@ It is our product to allows workers to create/edit Safety plans and risk assessm
 [Privacy Policy](./privacypolicy.html).
 
 [Terms & Conditions](./terms&Conditions.html).
+
+[Delete Account](./deleteAccount.html).
